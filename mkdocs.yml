@@ -1,0 +1,8 @@
+site_name: "dono"
+site_description: "dono"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
